@@ -7,7 +7,7 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  build_rules:
+  build_rules_geosite:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
@@ -113,7 +113,7 @@ jobs:
         # bash <(curl -fsSL https://sing-box.app/deb-install.sh)        
 
       - name: run parser
-        run: python3 test.py
+        run: python3 parse.py
 
       - name: check results and generate zip
         run: |
