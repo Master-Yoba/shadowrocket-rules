@@ -7,11 +7,12 @@ singbox_to_shadowrocket_mapping = {
     'domain': 'DOMAIN',
     'domain_suffix': 'DOMAIN-SUFFIX',
     'domain_regex': 'URL-REGEX',
-    "domain_keyword": 'DOMAIN-KEYWORD'
+    'domain_keyword': 'DOMAIN-KEYWORD',
+    'ip_cidr': 'IP-CIDR'
 }
 source_directory = "singbox-rules"
 target_directory = "shadowrocket-rules"
-SINGBOX_BINARY_PATH = "./sing-box-1.10.7-linux-amd64/sing-box"
+SINGBOX_BINARY_PATH = "./singbox_binary/sing-box"
 
 
 def singbox_ruleset_to_json(source_file): 
@@ -46,11 +47,22 @@ def parse_ruleset(ruleset):
 
 
 if not os.path.exists(source_directory):
-    print("Source dir not found")
+    print("Source dir not found!")
+    print("Please create:", source_directory)
+    quit()
+
+if not os.path.exists(SINGBOX_BINARY_PATH):
+    print("Sing-box binary not found!")
+    print("Please put Sing-box binary into:", SINGBOX_BINARY_PATH)
     quit()
 
 
 files = [f for f in os.listdir(f'./{source_directory}') if '.srs' in f]
+
+if len(files) < 1:
+    print("No files to parse!")
+    print("Please put .srs files into:", source_directory)
+    quit()
 
 if not os.path.exists(target_directory):
     os.makedirs(target_directory)

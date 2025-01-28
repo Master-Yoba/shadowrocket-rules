@@ -42,8 +42,10 @@ jobs:
       - name: install sing-box
         run: |
           wget https://github.com/SagerNet/sing-box/releases/download/v1.10.7/sing-box-1.10.7-linux-amd64.tar.gz
-          tar -xvzf sing-box-1.10.7-linux-amd64.tar.gz
-          ./sing-box-1.10.7-linux-amd64/sing-box -h
+          mkdir singbox_binary
+          tar -xvzf sing-box-1.10.7-linux-amd64.tar.gz -C singbox_binary --strip-components=1
+          rm sing-box-1.10.7-linux-amd64.tar.gz
+          ./singbox_binary/sing-box -h
         # bash <(curl -fsSL https://sing-box.app/deb-install.sh)        
 
       - name: run parser
@@ -53,19 +55,83 @@ jobs:
         run: |
           cd shadowrocket-rules/
           ls | wc
-          zip -r ../shadowrocket-rules.zip *
+          zip -r ../shadowrocket-rules-geosite.zip *
 
       - name: Загружаем zip artifact
         uses: actions/upload-artifact@v4
         with:
-          name: shadowrocket_zip
-          path: ./shadowrocket-rules.zip
+          name: shadowrocket_zip_geosite
+          path: ./shadowrocket-rules-geosite.zip
           retention-days: 1
 
       - name: Загружаем artifact 
         uses: actions/upload-artifact@v4
         with:
-          name: shadowrocket-rules
+          name: shadowrocket-rules-geosite
+          path: ./shadowrocket-rules/ # or path/to/artifact
+          retention-days: 1
+
+  build_rules_geoip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4        
+
+      - name: Checkout runetfreedom/russia-v2ray-rules-dat release
+        uses: actions/checkout@v4
+        with:
+          repository: runetfreedom/russia-v2ray-rules-dat
+          ref: refs/heads/release
+          path: russia-v2ray-rules-dat
+        
+      - name: Copy source files to dir
+        run: |
+          mkdir ./singbox-rules
+          cp -r ./russia-v2ray-rules-dat/sing-box/rule-set-geoip/. ./singbox-rules/
+          ls ./singbox-rules/
+
+      # - name: List files in workdir
+      #   run: |
+      #     ls ${{ github.workspace }}
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+
+      # You can test by printing the current Python version
+      - name: Display Python version
+        run: python -c "import sys; print(sys.version)"
+
+      - name: install sing-box
+        run: |
+          wget https://github.com/SagerNet/sing-box/releases/download/v1.10.7/sing-box-1.10.7-linux-amd64.tar.gz
+          mkdir singbox_binary
+          tar -xvzf sing-box-1.10.7-linux-amd64.tar.gz -C singbox_binary --strip-components=1
+          rm sing-box-1.10.7-linux-amd64.tar.gz
+          ./singbox_binary/sing-box -h
+        # bash <(curl -fsSL https://sing-box.app/deb-install.sh)        
+
+      - name: run parser
+        run: python3 test.py
+
+      - name: check results and generate zip
+        run: |
+          cd shadowrocket-rules/
+          ls | wc
+          zip -r ../shadowrocket-rules-geoip.zip *
+
+      - name: Загружаем zip artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: shadowrocket_zip_geoip
+          path: ./shadowrocket-rules-geoip.zip
+          retention-days: 1
+
+      - name: Загружаем artifact 
+        uses: actions/upload-artifact@v4
+        with:
+          name: shadowrocket-rules-geoip
           path: ./shadowrocket-rules/ # or path/to/artifact
           retention-days: 1
 
@@ -73,7 +139,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    needs: build_rules
+    needs: [build_rules_geosite, build_rules_geoip]
     steps:   
       - name: Set variables
         run: |
@@ -82,10 +148,16 @@ jobs:
           mkdir -p github_release
         shell: bash
 
-      - name: Скачиваем zip artifact 
+      - name: Скачиваем zip artifact geosite
         uses: actions/download-artifact@v4
         with:
-          name: shadowrocket_zip
+          name: shadowrocket_zip_geosite
+          path: ./github_release/
+
+      - name: Скачиваем zip artifact geoip
+        uses: actions/download-artifact@v4
+        with:
+          name: shadowrocket_zip_geoip
           path: ./github_release/
     
       - name: Публикуем zip artifact в releases
@@ -96,7 +168,8 @@ jobs:
           draft: false
           prerelease: false
           files: |
-            ./github_release/shadowrocket-rules.zip
+            ./github_release/shadowrocket-rules-geosite.zip
+            ./github_release/shadowrocket-rules-geoip.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -105,11 +178,17 @@ jobs:
           rm -rf ./github_release/
           mkdir -p publish
 
-      - name: Скачиваем artifact 
+      - name: Скачиваем artifact geosite
         uses: actions/download-artifact@v4
         with:
-          name: shadowrocket-rules
-          path: ./publish/rules/
+          name: shadowrocket-rules-geosite
+          path: ./publish/rules-geosite/
+
+      - name: Скачиваем artifact geoip
+        uses: actions/download-artifact@v4
+        with:
+          name: shadowrocket-rules-geoip
+          path: ./publish/rules-geoip/
 
       - name: Git push assets to "release" branch
         run: |
@@ -134,8 +213,10 @@ jobs:
           uses: geekyeggo/delete-artifact@v5
           with:
             name: |
-                shadowrocket-rules
-                shadowrocket_zip
+                shadowrocket-rules-geosite
+                shadowrocket-rules-geoip
+                shadowrocket_zip_geosite
+                shadowrocket_zip_geoip
 
         - name: Удаляем старые теги и релизы
           uses: dev-drprasad/delete-older-releases@v0.3.4
@@ -146,10 +227,10 @@ jobs:
           env:
               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-        - name: Удаляем старый workflow
-          uses: Mattraks/delete-workflow-runs@v2
-          with:
-            token: ${{ secrets.GITHUB_TOKEN }}
-            repository: ${{ github.repository }}
-            retain_days: 7
-            keep_minimum_runs: 3
+        # - name: Удаляем старый workflow
+        #   uses: Mattraks/delete-workflow-runs@v2
+        #   with:
+        #     token: ${{ secrets.GITHUB_TOKEN }}
+        #     repository: ${{ github.repository }}
+        #     retain_days: 7
+        #     keep_minimum_runs: 3
