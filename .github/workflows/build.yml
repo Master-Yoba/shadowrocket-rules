@@ -207,7 +207,7 @@ jobs:
     needs: publish
     permissions:
       actions: write
-      contents: read
+      contents: write
     steps:
         - name: Delete old artifacts
           uses: geekyeggo/delete-artifact@v5

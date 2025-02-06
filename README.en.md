@@ -1,4 +1,4 @@
-**English** | [**Русский**](https://github.com/Master-Yoba/shadowrocket-rules/blob/main/README.ru.md)
+**English** | [**Русский**](https://github.com/Master-Yoba/shadowrocket-rules/blob/main/README.md)
 
 # What is This
 
@@ -16,7 +16,7 @@ Direct links to some files that may be of most interest to users in the Russian 
     - [https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-ru-blocked.list](https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-ru-blocked.list)
 
 - **geosite ru-blocked-all**
-    - [https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-ru-blocked.list](https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-ru-blocked-all.list)
+    - [https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-ru-blocked-all.list](https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-ru-blocked-all.list)
 
 - **geosite category-ru**
     - [https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-category-ru.list](https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-category-ru.list)
