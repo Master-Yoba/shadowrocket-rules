@@ -1,0 +1,9 @@
+# NAME: geosite-perl
+# UPDATED: 2025-02-15 01:06:29
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,cpan.org
+DOMAIN-SUFFIX,metacpan.org
+DOMAIN-SUFFIX,modperl.pl
+DOMAIN-SUFFIX,perl.apache.org
+DOMAIN-SUFFIX,perl.org
