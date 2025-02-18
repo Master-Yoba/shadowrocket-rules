@@ -1,0 +1,9 @@
+# NAME: geosite-nvidia@cn
+# UPDATED: 2025-02-18 01:07:25
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+DOMAIN,cn.download.nvidia.com
+DOMAIN-SUFFIX,geforce.cn
+DOMAIN-SUFFIX,gputechconf.cn
+DOMAIN-SUFFIX,nvidia.cn

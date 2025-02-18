@@ -1,0 +1,8 @@
+# NAME: geosite-tmdb
+# UPDATED: 2025-02-18 01:07:21
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+DOMAIN,tmdb-image-prod.b-cdn.net
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org

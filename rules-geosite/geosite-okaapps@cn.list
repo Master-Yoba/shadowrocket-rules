@@ -1,0 +1,5 @@
+# NAME: geosite-okaapps@cn
+# UPDATED: 2025-02-18 01:07:23
+# URL-REGEX: 1
+# TOTAL: 1
+URL-REGEX,^(.+\.)*zh\.okaapps\.com$

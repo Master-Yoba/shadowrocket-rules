@@ -1,0 +1,15 @@
+# NAME: geosite-google-play
+# UPDATED: 2025-02-18 01:07:24
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 7
+# URL-REGEX: 1
+# TOTAL: 9
+DOMAIN,redirector.c.play.google.com
+DOMAIN-SUFFIX,googleplay.com
+DOMAIN-SUFFIX,play-fe.googleapis.com
+DOMAIN-SUFFIX,play-games.googleusercontent.com
+DOMAIN-SUFFIX,play-lh.googleusercontent.com
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+URL-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$

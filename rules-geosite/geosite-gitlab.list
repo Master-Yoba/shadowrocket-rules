@@ -1,0 +1,10 @@
+# NAME: geosite-gitlab
+# UPDATED: 2025-02-18 01:07:30
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,gitlab-static.net
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,gitlab.net

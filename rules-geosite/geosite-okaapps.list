@@ -1,0 +1,7 @@
+# NAME: geosite-okaapps
+# UPDATED: 2025-02-18 01:07:22
+# DOMAIN-SUFFIX: 1
+# URL-REGEX: 1
+# TOTAL: 2
+DOMAIN-SUFFIX,okaapps.com
+URL-REGEX,^(.+\.)*zh\.okaapps\.com$

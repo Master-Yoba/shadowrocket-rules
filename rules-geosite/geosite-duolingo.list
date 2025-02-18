@@ -1,0 +1,9 @@
+# NAME: geosite-duolingo
+# UPDATED: 2025-02-18 01:07:20
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com

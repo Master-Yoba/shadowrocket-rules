@@ -1,0 +1,8 @@
+# NAME: geosite-digitalocean
+# UPDATED: 2025-02-18 01:07:22
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,do.co
+DOMAIN-SUFFIX,nginxconfig.io

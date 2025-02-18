@@ -1,0 +1,7 @@
+# NAME: geosite-certum
+# UPDATED: 2025-02-18 01:07:22
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+DOMAIN-SUFFIX,certum.pl
+DOMAIN-SUFFIX,ocsp-certum.com
+DOMAIN-SUFFIX,ocsp-responder.com

@@ -1,0 +1,12 @@
+# NAME: geosite-snap
+# UPDATED: 2025-02-18 01:07:24
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 6
+# TOTAL: 7
+DOMAIN,impala-media-production.s3.amazonaws.com
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snapkit.co

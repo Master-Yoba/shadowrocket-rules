@@ -1,0 +1,8 @@
+# NAME: geosite-rust
+# UPDATED: 2025-02-18 01:07:25
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,docs.rs
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,rustup.rs

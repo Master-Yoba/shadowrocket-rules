@@ -1,0 +1,11 @@
+# NAME: geosite-atlassian
+# UPDATED: 2025-02-18 01:07:31
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,statuspage.io
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com

@@ -1,0 +1,5 @@
+# NAME: geosite-ookla-speedtest-ads@ads
+# UPDATED: 2025-02-18 01:07:24
+# URL-REGEX: 1
+# TOTAL: 1
+URL-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

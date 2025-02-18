@@ -1,0 +1,11 @@
+# NAME: geosite-google-trust-services@cn
+# UPDATED: 2025-02-18 01:07:23
+# DOMAIN: 7
+# TOTAL: 7
+DOMAIN,c.pki.goog
+DOMAIN,crl.pki.goog
+DOMAIN,crls.pki.goog
+DOMAIN,i.pki.goog
+DOMAIN,o.pki.goog
+DOMAIN,ocsp.pki.goog
+DOMAIN,pki-goog.l.google.com

@@ -1,0 +1,14 @@
+# NAME: geosite-category-ntp-cn
+# UPDATED: 2025-02-18 01:07:23
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 4
+# URL-REGEX: 2
+# TOTAL: 8
+DOMAIN,time.izatcloud.net
+DOMAIN,time.xtracloud.net
+DOMAIN-SUFFIX,cn.pool.ntp.org
+DOMAIN-SUFFIX,ntp.neu.edu.cn
+DOMAIN-SUFFIX,ntp.ntsc.ac.cn
+DOMAIN-SUFFIX,ntp.org.cn
+URL-REGEX,^ntp([1-7])?\.aliyun\.com$
+URL-REGEX,^ntp([1-5])?\.tencent\.com$

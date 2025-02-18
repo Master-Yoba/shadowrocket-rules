@@ -1,0 +1,11 @@
+# NAME: geosite-globalsign@cn
+# UPDATED: 2025-02-18 01:07:25
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 5
+# TOTAL: 6
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,alphassl.com
+DOMAIN-SUFFIX,easy-signing.com
+DOMAIN-SUFFIX,globalsign.cn
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,globalsigncdn.com

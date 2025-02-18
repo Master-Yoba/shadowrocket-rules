@@ -1,0 +1,10 @@
+# NAME: geosite-tesla@cn
+# UPDATED: 2025-02-18 01:07:23
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+DOMAIN,tesla-cdn.thron.cn
+DOMAIN-SUFFIX,tesla.cn
+DOMAIN-SUFFIX,tesla.com.cn
+DOMAIN-SUFFIX,teslamotors.cn
+DOMAIN-SUFFIX,teslamotors.com.cn

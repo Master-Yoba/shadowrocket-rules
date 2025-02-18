@@ -1,0 +1,34 @@
+# NAME: geosite-netflix
+# UPDATED: 2025-02-18 01:07:32
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 23
+# URL-REGEX: 4
+# TOTAL: 28
+DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,netflix.ca
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,netflixdnstest0.com
+DOMAIN-SUFFIX,netflixdnstest1.com
+DOMAIN-SUFFIX,netflixdnstest10.com
+DOMAIN-SUFFIX,netflixdnstest2.com
+DOMAIN-SUFFIX,netflixdnstest3.com
+DOMAIN-SUFFIX,netflixdnstest4.com
+DOMAIN-SUFFIX,netflixdnstest5.com
+DOMAIN-SUFFIX,netflixdnstest6.com
+DOMAIN-SUFFIX,netflixdnstest7.com
+DOMAIN-SUFFIX,netflixdnstest8.com
+DOMAIN-SUFFIX,netflixdnstest9.com
+DOMAIN-SUFFIX,netflixinvestor.com
+DOMAIN-SUFFIX,netflixtechblog.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
+URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
+URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
+URL-REGEX,(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$

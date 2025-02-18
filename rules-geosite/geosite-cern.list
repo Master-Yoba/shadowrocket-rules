@@ -1,0 +1,11 @@
+# NAME: geosite-cern
+# UPDATED: 2025-02-18 01:07:19
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+DOMAIN-SUFFIX,.cern
+DOMAIN-SUFFIX,ams02.space
+DOMAIN-SUFFIX,cern.ch
+DOMAIN-SUFFIX,cixp.net
+DOMAIN-SUFFIX,dotcernpilot.info
+DOMAIN-SUFFIX,ippog.org
+DOMAIN-SUFFIX,linearcollider.org

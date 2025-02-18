@@ -1,0 +1,8 @@
+# NAME: geosite-anaconda
+# UPDATED: 2025-02-18 01:07:25
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,anaconda.cloud
+DOMAIN-SUFFIX,anaconda.com
+DOMAIN-SUFFIX,anaconda.org
+DOMAIN-SUFFIX,conda.io

@@ -1,0 +1,9 @@
+# NAME: geosite-bilibili@!cn
+# UPDATED: 2025-02-18 01:07:32
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,dreamcast.hk

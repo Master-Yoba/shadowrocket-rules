@@ -1,0 +1,12 @@
+# NAME: geosite-apple-pki
+# UPDATED: 2025-02-18 01:07:21
+# DOMAIN: 8
+# TOTAL: 8
+DOMAIN,certs-lb.apple.com.akadns.net
+DOMAIN,certs.apple.com
+DOMAIN,crl-lb.apple.com.akadns.net
+DOMAIN,crl.apple.com
+DOMAIN,ocsp-lb.apple.com.akadns.net
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp2-lb.apple.com.akadns.net
+DOMAIN,ocsp2.apple.com

@@ -1,0 +1,9 @@
+# NAME: geosite-flickr
+# UPDATED: 2025-02-18 01:07:25
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,.flickr
+DOMAIN-SUFFIX,flic.kr
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,flickr.net
+DOMAIN-SUFFIX,staticflickr.com

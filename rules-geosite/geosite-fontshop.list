@@ -1,0 +1,9 @@
+# NAME: geosite-fontshop
+# UPDATED: 2025-02-18 01:07:21
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
+DOMAIN-SUFFIX,fontbook.com
+DOMAIN-SUFFIX,fontshop.com
+DOMAIN-SUFFIX,fstopimages.com

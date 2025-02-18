@@ -1,0 +1,13 @@
+# NAME: geosite-category-number-verification-cn
+# UPDATED: 2025-02-18 01:07:25
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 1
+# URL-REGEX: 1
+# TOTAL: 7
+DOMAIN,enrichgw.10010.com
+DOMAIN,hap.10010.com
+DOMAIN,hs.wosms.cn
+DOMAIN,id6.me
+DOMAIN,opencloud.wostore.cn
+DOMAIN-SUFFIX,cmpassport.com
+URL-REGEX,^nis.+\.10010\.com$

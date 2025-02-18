@@ -1,0 +1,7 @@
+# NAME: geosite-docker
+# UPDATED: 2025-02-18 01:07:32
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io

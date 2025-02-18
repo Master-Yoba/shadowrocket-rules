@@ -1,0 +1,15 @@
+# NAME: geosite-category-container
+# UPDATED: 2025-02-18 01:07:24
+# DOMAIN-SUFFIX: 9
+# URL-REGEX: 1
+# TOTAL: 10
+DOMAIN-SUFFIX,azurecr.io
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ecr.aws
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,mcr.microsoft.com
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,registry.gitlab.com
+DOMAIN-SUFFIX,registry.k8s.io
+URL-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$

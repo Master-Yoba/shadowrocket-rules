@@ -1,0 +1,6 @@
+# NAME: geosite-epicgames@cn
+# UPDATED: 2025-02-18 01:07:15
+# URL-REGEX: 2
+# TOTAL: 2
+URL-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+URL-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$

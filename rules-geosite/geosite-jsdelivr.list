@@ -1,0 +1,9 @@
+# NAME: geosite-jsdelivr
+# UPDATED: 2025-02-18 01:07:33
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+DOMAIN,cdn.jsdelivr.net
+DOMAIN-SUFFIX,esm.run
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net

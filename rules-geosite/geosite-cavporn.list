@@ -1,0 +1,8 @@
+# NAME: geosite-cavporn
+# UPDATED: 2025-02-18 01:07:19
+# DOMAIN-SUFFIX: 2
+# URL-REGEX: 1
+# TOTAL: 3
+DOMAIN-SUFFIX,cavporn.com
+DOMAIN-SUFFIX,cavporn.github.io
+URL-REGEX,(^|\.)cav1(0[2-9]|1[0-9])\.com$

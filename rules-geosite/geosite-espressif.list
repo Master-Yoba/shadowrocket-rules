@@ -1,0 +1,7 @@
+# NAME: geosite-espressif
+# UPDATED: 2025-02-18 01:07:21
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+DOMAIN-SUFFIX,esp32.com
+DOMAIN-SUFFIX,esp8266.com
+DOMAIN-SUFFIX,espressif.com

@@ -1,0 +1,7 @@
+# NAME: geosite-google-play@cn
+# UPDATED: 2025-02-18 01:07:31
+# DOMAIN: 1
+# URL-REGEX: 1
+# TOTAL: 2
+DOMAIN,redirector.c.play.google.com
+URL-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$

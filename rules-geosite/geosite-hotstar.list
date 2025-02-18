@@ -1,0 +1,11 @@
+# NAME: geosite-hotstar
+# UPDATED: 2025-02-18 01:07:30
+# DOMAIN-SUFFIX: 5
+# URL-REGEX: 1
+# TOTAL: 6
+DOMAIN-SUFFIX,hotstar-cdn.net
+DOMAIN-SUFFIX,hotstar-labs.com
+DOMAIN-SUFFIX,hotstar.com
+DOMAIN-SUFFIX,hotstarext.com
+DOMAIN-SUFFIX,hsprepack.akamaized.net
+URL-REGEX,^hses[1-7]?\.akamaized\.net$

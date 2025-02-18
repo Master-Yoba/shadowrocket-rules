@@ -1,0 +1,8 @@
+# NAME: geosite-apple-ads
+# UPDATED: 2025-02-18 01:07:18
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,api-adservices.apple.com
+DOMAIN-SUFFIX,iad.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,qwapi.com

@@ -1,0 +1,9 @@
+# NAME: geosite-fedora
+# UPDATED: 2025-02-18 01:07:24
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,fedoraforum.org
+DOMAIN-SUFFIX,fedoramagazine.org
+DOMAIN-SUFFIX,fedorapeople.org
+DOMAIN-SUFFIX,fedoraproject.org
+DOMAIN-SUFFIX,getfedora.org

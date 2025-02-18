@@ -1,0 +1,58 @@
+# NAME: geosite-category-ntp
+# UPDATED: 2025-02-18 01:07:22
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 43
+# URL-REGEX: 7
+# TOTAL: 52
+DOMAIN,time.izatcloud.net
+DOMAIN,time.xtracloud.net
+DOMAIN-SUFFIX,ats1.e-timing.ne.jp
+DOMAIN-SUFFIX,clock.isc.org
+DOMAIN-SUFFIX,cn.pool.ntp.org
+DOMAIN-SUFFIX,ntp-os01.ocn.ad.jp
+DOMAIN-SUFFIX,ntp-tk01.ocn.ad.jp
+DOMAIN-SUFFIX,ntp-tk02.ocn.ad.jp
+DOMAIN-SUFFIX,ntp.dnsbalance.ring.gr.jp
+DOMAIN-SUFFIX,ntp.fiord.ru
+DOMAIN-SUFFIX,ntp.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp.nat.ms
+DOMAIN-SUFFIX,ntp.nc.u-tokyo.ac.jp
+DOMAIN-SUFFIX,ntp.neu.edu.cn
+DOMAIN-SUFFIX,ntp.nic.cz
+DOMAIN-SUFFIX,ntp.nict.jp
+DOMAIN-SUFFIX,ntp.ntsc.ac.cn
+DOMAIN-SUFFIX,ntp.org.cn
+DOMAIN-SUFFIX,ntp.ring.gr.jp
+DOMAIN-SUFFIX,ntp.ripe.net
+DOMAIN-SUFFIX,ntp.se
+DOMAIN-SUFFIX,ntp.t.ring.gr.jp
+DOMAIN-SUFFIX,ntp.tohoku.ac.jp
+DOMAIN-SUFFIX,ntp.tut.ac.jp
+DOMAIN-SUFFIX,ntp.ufe.cz
+DOMAIN-SUFFIX,ntp0.ring.gr.jp
+DOMAIN-SUFFIX,ntp1.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp1.plala.or.jp
+DOMAIN-SUFFIX,ntp1.ring.gr.jp
+DOMAIN-SUFFIX,ntp1.tohoku.ac.jp
+DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp1.wakwak.com
+DOMAIN-SUFFIX,ntp2.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp2.plala.or.jp
+DOMAIN-SUFFIX,ntp2.ring.gr.jp
+DOMAIN-SUFFIX,ntp2.tohoku.ac.jp
+DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp2.wakwak.com
+DOMAIN-SUFFIX,ntp3.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp3.v6.mfeed.ad.jp
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp
+DOMAIN-SUFFIX,time.cloudflare.com
+DOMAIN-SUFFIX,time.nrc.ca
+DOMAIN-SUFFIX,time.windows.com
+URL-REGEX,^time(.euro)?.apple.com$
+URL-REGEX,^time([1-5])?\.facebook\.com$
+URL-REGEX,^time([1-4])?.google.com$
+URL-REGEX,^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?))\.nist\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\.colorado\.edu)$
+URL-REGEX,^ntp[0-7]\.ntp-servers\.net$
+URL-REGEX,^ntp([1-7])?\.aliyun\.com$
+URL-REGEX,^ntp([1-5])?\.tencent\.com$

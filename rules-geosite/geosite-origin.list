@@ -1,0 +1,14 @@
+# NAME: geosite-origin
+# UPDATED: 2025-02-18 01:07:24
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 5
+# TOTAL: 9
+DOMAIN,cloudsync-prod.s3.amazonaws.com
+DOMAIN,origin-a.akamaihd.net
+DOMAIN,rtm.tnt-ea.com
+DOMAIN,ssl-lvlt.cdn.ea.com
+DOMAIN-SUFFIX,dawngate.com
+DOMAIN-SUFFIX,eastore.com
+DOMAIN-SUFFIX,lordofultima.com
+DOMAIN-SUFFIX,origin.com
+DOMAIN-SUFFIX,origin.tv
