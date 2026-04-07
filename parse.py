@@ -1,6 +1,7 @@
 import json
 import os
 import datetime
+import sys
 
 
 singbox_to_shadowrocket_mapping = {
@@ -49,12 +50,12 @@ def parse_ruleset(ruleset):
 if not os.path.exists(source_directory):
     print("Source dir not found!")
     print("Please create:", source_directory)
-    quit()
+    sys.exit()
 
 if not os.path.exists(SINGBOX_BINARY_PATH):
     print("Sing-box binary not found!")
     print("Please put Sing-box binary into:", SINGBOX_BINARY_PATH)
-    quit()
+    sys.exit()
 
 
 files = [f for f in os.listdir(f'./{source_directory}') if '.srs' in f]
@@ -62,7 +63,7 @@ files = [f for f in os.listdir(f'./{source_directory}') if '.srs' in f]
 if len(files) < 1:
     print("No files to parse!")
     print("Please put .srs files into:", source_directory)
-    quit()
+    sys.exit()
 
 if not os.path.exists(target_directory):
     os.makedirs(target_directory)

@@ -36,6 +36,12 @@
 RULE-SET,https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-ru-blocked.list,PROXY
 ```
 
+UPD - Аналогичные репозитории:
+https://github.com/zydou/domain-list-community-converter
+https://github.com/blackmatrix7/ios_rule_script
+
+Оказалось, что существует другой китайский клиент Surge, у которого конфигурация правил полностью совместима с Shadowrocket. Можно использовать правила Surge по ссылкам выше.
+
 ## Как это работает
 
 Скрипт для парсинга можно запустить самостоятельно.
