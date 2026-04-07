@@ -36,12 +36,12 @@ def parse_ruleset(ruleset):
             if isinstance(item[rule_type], str):
                 header_totals += f"# {singbox_to_shadowrocket_mapping[rule_type]}: 1\n"
                 total_count += 1
-                config += f"{singbox_to_shadowrocket_mapping[rule_type]},{item[rule_type]}\n"
+                config += f"{singbox_to_shadowrocket_mapping[rule_type]},{item[rule_type].lstrip('.')}\n"
             if isinstance(item[rule_type], list):
                 header_totals += f"# {singbox_to_shadowrocket_mapping[rule_type]}: {len(item[rule_type])}\n"
                 total_count += len(item[rule_type])
                 for element in item[rule_type]:
-                    config += f"{singbox_to_shadowrocket_mapping[rule_type]},{element}\n"
+                    config += f"{singbox_to_shadowrocket_mapping[rule_type]},{element.lstrip('.')}\n"
         header_totals += f"# TOTAL: {total_count}\n"
 
     return(header_totals, config)
