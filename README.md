@@ -22,6 +22,9 @@
 - **geosite category-ru**
     - [https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-category-ru.list](https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-category-ru.list)
 
+- **geosite ru-mobile-whitelist**
+    - [https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-ru-mobile-whitelist.list](https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geosite/geosite-ru-mobile-whitelist.list)
+
 - **geoip ru-blocked**
     - [https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geoip/geoip-ru-blocked.list](https://raw.githubusercontent.com/Master-Yoba/shadowrocket-rules/release/rules-geoip/geoip-ru-blocked.list)
 
@@ -41,6 +44,8 @@ https://github.com/zydou/domain-list-community-converter
 https://github.com/blackmatrix7/ios_rule_script
 
 Оказалось, что существует другой китайский клиент Surge, у которого конфигурация правил полностью совместима с Shadowrocket. Можно использовать правила Surge по ссылкам выше.
+
+UPD 2 - Добавлены белые списки доменов мобильных сетей (geosite-ru-mobile-whitelist.list). Источник - https://github.com/hxehex/russia-mobile-internet-whitelist
 
 ## Как это работает
 
