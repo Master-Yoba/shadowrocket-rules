@@ -19,6 +19,12 @@ jobs:
           repository: runetfreedom/russia-v2ray-rules-dat
           ref: refs/heads/release
           path: russia-v2ray-rules-dat
+
+      - name: Checkout mobile internet whitelist
+        uses: actions/checkout@v4
+        with:
+          repository: hxehex/russia-mobile-internet-whitelist
+          path: russia-mobile-internet-whitelist
         
       - name: Copy source files to dir
         run: |
@@ -50,6 +56,28 @@ jobs:
 
       - name: run parser
         run: python3 parse.py
+
+      - name: build mobile whitelist rules
+        run: |
+          timestamp="$(date '+%Y-%m-%d %H:%M:%S')"
+          output_file="./shadowrocket-rules/geosite-ru-mobile-whitelist.list"
+
+          mapfile -t domains < <(
+            grep -vE '^[[:space:]]*($|#)' ./russia-mobile-internet-whitelist/whitelist.txt |
+            sed 's/\r$//' |
+            sed 's/^[.]*//' |
+            sort -u
+          )
+
+          {
+            echo "# NAME: geosite-ru-mobile-whitelist"
+            echo "# UPDATED: ${timestamp}"
+            echo "# DOMAIN-SUFFIX: ${#domains[@]}"
+            echo "# TOTAL: ${#domains[@]}"
+            for domain in "${domains[@]}"; do
+              echo "DOMAIN-SUFFIX,${domain}"
+            done
+          } > "${output_file}"
 
       - name: check results and generate zip
         run: |
