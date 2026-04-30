@@ -1,0 +1,9 @@
+# NAME: geosite-hinet-eca
+# UPDATED: 2026-04-30 02:39:59
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,eca.hinet.net
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw
+DOMAIN-SUFFIX,pki.hinet.net
+DOMAIN-SUFFIX,publicca.hinet.net
+DOMAIN-SUFFIX,tls.hinet.net

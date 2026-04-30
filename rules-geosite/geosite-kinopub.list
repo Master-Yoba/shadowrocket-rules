@@ -1,0 +1,17 @@
+# NAME: geosite-kinopub
+# UPDATED: 2026-04-30 02:39:52
+# DOMAIN-SUFFIX: 11
+# URL-REGEX: 1
+# TOTAL: 12
+DOMAIN-SUFFIX,ahc.ovh
+DOMAIN-SUFFIX,cdn-service.space
+DOMAIN-SUFFIX,cdn2cdn.com
+DOMAIN-SUFFIX,cdn2site.com
+DOMAIN-SUFFIX,gfw.ovh
+DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,kinopub.online
+DOMAIN-SUFFIX,kpdl.link
+DOMAIN-SUFFIX,mos-gorsud.co
+DOMAIN-SUFFIX,pushbr.com
+DOMAIN-SUFFIX,smarttvcdn.online
+URL-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$

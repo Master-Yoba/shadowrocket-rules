@@ -1,0 +1,12 @@
+# NAME: geosite-anthropic
+# UPDATED: 2026-04-30 02:39:52
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 6
+# TOTAL: 7
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudeusercontent.com

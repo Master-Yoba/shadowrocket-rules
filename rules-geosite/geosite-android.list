@@ -1,0 +1,9 @@
+# NAME: geosite-android
+# UPDATED: 2026-04-30 02:39:57
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+DOMAIN,android.googlesource.com
+DOMAIN-SUFFIX,android
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com

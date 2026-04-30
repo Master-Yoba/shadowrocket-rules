@@ -1,0 +1,12 @@
+# NAME: geosite-gmo-internet@cn
+# UPDATED: 2026-04-30 02:39:59
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 5
+# TOTAL: 7
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN,crl.globalsign.net
+DOMAIN-SUFFIX,alphassl.com
+DOMAIN-SUFFIX,easy-signing.com
+DOMAIN-SUFFIX,globalsign.cn
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,globalsigncdn.com

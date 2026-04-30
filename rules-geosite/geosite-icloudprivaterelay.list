@@ -1,0 +1,7 @@
+# NAME: geosite-icloudprivaterelay
+# UPDATED: 2026-04-30 02:39:57
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+DOMAIN-SUFFIX,mask-api.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
