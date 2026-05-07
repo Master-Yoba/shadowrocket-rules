@@ -1,0 +1,9 @@
+# NAME: geosite-apple-intelligence
+# UPDATED: 2026-05-07 02:36:35
+# DOMAIN: 5
+# TOTAL: 5
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,gspe1-ssl.ls.apple.com

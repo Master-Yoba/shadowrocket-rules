@@ -1,0 +1,9 @@
+# NAME: geosite-archlinux
+# UPDATED: 2026-05-07 02:36:42
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,archlinux.de
+DOMAIN-SUFFIX,archlinux.org
+DOMAIN-SUFFIX,archlinuxarm.org
+DOMAIN-SUFFIX,archlinuxcn.org
+DOMAIN-SUFFIX,pkgbuild.com

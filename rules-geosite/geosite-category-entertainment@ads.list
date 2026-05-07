@@ -1,0 +1,13 @@
+# NAME: geosite-category-entertainment@ads
+# UPDATED: 2026-05-07 02:36:38
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 4
+# TOTAL: 8
+DOMAIN,adeventtracker.spotify.com
+DOMAIN,adstudio-assets.scdn.co
+DOMAIN,bloodhound.spotify.com
+DOMAIN,disney.my.sentry.io
+DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN-SUFFIX,ads.youtube.com
+DOMAIN-SUFFIX,analytics.tiktok.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com

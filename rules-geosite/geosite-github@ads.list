@@ -1,0 +1,8 @@
+# NAME: geosite-github@ads
+# UPDATED: 2026-05-07 02:36:42
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 1
+# TOTAL: 3
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN-SUFFIX,collector.github.com

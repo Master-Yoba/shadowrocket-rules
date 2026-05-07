@@ -1,0 +1,11 @@
+# NAME: geosite-wbgames
+# UPDATED: 2026-05-07 02:36:26
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 4
+# TOTAL: 6
+DOMAIN,datarouter.apps.netherrealm.com
+DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+DOMAIN-SUFFIX,warnerbrosgames.com
+DOMAIN-SUFFIX,wbagora.com
+DOMAIN-SUFFIX,wbgames.com
+DOMAIN-SUFFIX,wbinsights.com

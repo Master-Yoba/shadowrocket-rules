@@ -1,0 +1,15 @@
+# NAME: geosite-mindbox@ads
+# UPDATED: 2026-05-07 02:36:37
+# DOMAIN: 7
+# DOMAIN-SUFFIX: 3
+# TOTAL: 10
+DOMAIN,api-js.mindbox.ru
+DOMAIN,api-ru.mindbox.cloud
+DOMAIN,api-staging.mindbox.ru
+DOMAIN,api.mindbox.cloud
+DOMAIN,api.mindbox.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
+DOMAIN-SUFFIX,e.mindbox.ru
+DOMAIN-SUFFIX,g.mindbox.ru
+DOMAIN-SUFFIX,s.mindbox.ru

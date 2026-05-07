@@ -1,0 +1,11 @@
+# NAME: geosite-meta@ads
+# UPDATED: 2026-05-07 02:36:42
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,facebookads.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net
+DOMAIN-SUFFIX,pixel.facebook.com

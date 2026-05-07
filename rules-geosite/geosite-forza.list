@@ -1,0 +1,10 @@
+# NAME: geosite-forza
+# UPDATED: 2026-05-07 02:36:36
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+DOMAIN,prodforza.blob.core.windows.net
+DOMAIN-SUFFIX,forza.net
+DOMAIN-SUFFIX,forzamotorsport.net
+DOMAIN-SUFFIX,forzaracingchampionship.com
+DOMAIN-SUFFIX,forzarc.com

@@ -1,0 +1,9 @@
+# NAME: geosite-bilibili2
+# UPDATED: 2026-05-07 02:36:41
+# DOMAIN-SUFFIX: 3
+# URL-REGEX: 1
+# TOTAL: 4
+DOMAIN-SUFFIX,bili2.cc
+DOMAIN-SUFFIX,bili888.com
+DOMAIN-SUFFIX,bili999.com
+URL-REGEX,(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$

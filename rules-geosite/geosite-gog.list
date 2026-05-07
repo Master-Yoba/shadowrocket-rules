@@ -1,0 +1,19 @@
+# NAME: geosite-gog
+# UPDATED: 2026-05-07 02:36:41
+# DOMAIN: 8
+# DOMAIN-SUFFIX: 2
+# URL-REGEX: 3
+# TOTAL: 13
+DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn.akamaized.net
+DOMAIN,gog.qtlglb.com
+DOMAIN,gogalaxy.gog-statics.com
+DOMAIN,menu-static.gog-statics.com
+DOMAIN,productcard.gog-statics.com
+DOMAIN,static-login.gog-statics.com
+DOMAIN,www4-static.gog-statics.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.com
+URL-REGEX,^cdn-akamai-.+\.gog-services\.com$
+URL-REGEX,^gog-cdn-.+\.footprint\.net$
+URL-REGEX,^images(-\d)?\.gog-statics\.com$

@@ -1,0 +1,11 @@
+# NAME: geosite-github-copilot
+# UPDATED: 2026-05-07 02:36:42
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 1
+# TOTAL: 6
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,copilot-workspace.githubnext.com
+DOMAIN,copilotprodattachments.blob.core.windows.net
+DOMAIN-SUFFIX,githubcopilot.com
