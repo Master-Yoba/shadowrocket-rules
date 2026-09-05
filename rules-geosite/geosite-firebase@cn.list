@@ -1,0 +1,7 @@
+# NAME: geosite-firebase@cn
+# UPDATED: 2026-09-05 02:47:55
+# DOMAIN: 3
+# TOTAL: 3
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,update.crashlytics.com

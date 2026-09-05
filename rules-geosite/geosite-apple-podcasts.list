@@ -1,0 +1,8 @@
+# NAME: geosite-apple-podcasts
+# UPDATED: 2026-09-05 02:47:55
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN-SUFFIX,applepodcasts.com
+DOMAIN-SUFFIX,podcasts.apple.com

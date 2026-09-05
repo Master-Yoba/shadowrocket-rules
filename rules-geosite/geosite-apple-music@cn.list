@@ -1,0 +1,11 @@
+# NAME: geosite-apple-music@cn
+# UPDATED: 2026-09-05 02:47:42
+# DOMAIN: 7
+# TOTAL: 7
+DOMAIN,amp-api-edge.music.apple.com
+DOMAIN,amp-api.music.apple.com
+DOMAIN,js-cdn.music.apple.com
+DOMAIN,music.apple.com
+DOMAIN,musicstatus.music.apple.com
+DOMAIN,play.music.apple.com
+DOMAIN,speedysub.music.apple.com

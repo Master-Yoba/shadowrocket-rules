@@ -1,0 +1,13 @@
+# NAME: geosite-gog
+# UPDATED: 2026-09-05 02:48:05
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 5
+# TOTAL: 8
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
+DOMAIN,gog-cdn.akamaized.net
+DOMAIN,gog.qtlglb.com
+DOMAIN-SUFFIX,gog-services.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gogalaxy.com
+DOMAIN-SUFFIX,insights-collector.gog.com

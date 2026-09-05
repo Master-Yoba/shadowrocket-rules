@@ -1,0 +1,8 @@
+# NAME: geosite-sentry
+# UPDATED: 2026-09-05 02:48:03
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,getsentry.com
+DOMAIN-SUFFIX,sentry-cdn.com
+DOMAIN-SUFFIX,sentry.dev
+DOMAIN-SUFFIX,sentry.io

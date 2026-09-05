@@ -1,0 +1,15 @@
+# NAME: geosite-connectivity-check@cn
+# UPDATED: 2026-09-05 02:48:03
+# DOMAIN: 9
+# DOMAIN-SUFFIX: 1
+# TOTAL: 10
+DOMAIN,conn1.oppomobile.com
+DOMAIN,conn2.oppomobile.com
+DOMAIN,connect.rom.miui.com
+DOMAIN,connectivity.samsung.com.cn
+DOMAIN,connectivitycheck.platform.hicloud.com
+DOMAIN,connectivitycheck.platform.hihonorcloud.com
+DOMAIN,wifi.vivo.com.cn
+DOMAIN,www.gstatic.com
+DOMAIN,www.qualcomm.cn
+DOMAIN-SUFFIX,captive.apple.com
