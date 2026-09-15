@@ -1,0 +1,5 @@
+# NAME: geosite-category-entertainment-cn@cn
+# UPDATED: 2026-09-15 03:14:24
+# URL-REGEX: 1
+# TOTAL: 1
+URL-REGEX,^.+-mihayo\.akamaized\.net$
