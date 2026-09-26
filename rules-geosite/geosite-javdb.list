@@ -1,0 +1,10 @@
+# NAME: geosite-javdb
+# UPDATED: 2026-09-26 03:21:28
+# DOMAIN-SUFFIX: 4
+# URL-REGEX: 1
+# TOTAL: 5
+DOMAIN-SUFFIX,jav.app
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,jdbimgs.com
+DOMAIN-SUFFIX,jdbstatic.com
+URL-REGEX,javdb\d+\.com$

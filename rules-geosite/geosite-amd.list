@@ -1,0 +1,11 @@
+# NAME: geosite-amd
+# UPDATED: 2026-09-26 03:21:37
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 5
+# TOTAL: 6
+DOMAIN,www.amd.com
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amd.com.cn
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,amdgaming.com
+DOMAIN-SUFFIX,radeon.com

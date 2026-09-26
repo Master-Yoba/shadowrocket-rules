@@ -1,0 +1,7 @@
+# NAME: geosite-openai@ads
+# UPDATED: 2026-09-26 03:21:28
+# DOMAIN: 3
+# TOTAL: 3
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openai.qualtrics.com
