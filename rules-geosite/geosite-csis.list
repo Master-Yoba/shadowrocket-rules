@@ -1,0 +1,7 @@
+# NAME: geosite-csis
+# UPDATED: 2026-10-03 03:39:30
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 1
+# TOTAL: 2
+DOMAIN,csis-prod.s3.amazonaws.com
+DOMAIN-SUFFIX,csis.org
