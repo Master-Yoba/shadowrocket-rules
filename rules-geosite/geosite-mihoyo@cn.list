@@ -1,0 +1,5 @@
+# NAME: geosite-mihoyo@cn
+# UPDATED: 2026-10-17 02:51:38
+# URL-REGEX: 1
+# TOTAL: 1
+URL-REGEX,^.+-mihayo\.akamaized\.net$
