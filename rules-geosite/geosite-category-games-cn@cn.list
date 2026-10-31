@@ -1,0 +1,5 @@
+# NAME: geosite-category-games-cn@cn
+# UPDATED: 2026-10-31 03:55:30
+# URL-REGEX: 1
+# TOTAL: 1
+URL-REGEX,^.+-mihayo\.akamaized\.net$
