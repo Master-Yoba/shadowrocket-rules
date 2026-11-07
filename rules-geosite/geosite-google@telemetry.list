@@ -1,0 +1,9 @@
+# NAME: geosite-google@telemetry
+# UPDATED: 2026-11-07 04:29:49
+# DOMAIN: 5
+# TOTAL: 5
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
+DOMAIN,update.crashlytics.com

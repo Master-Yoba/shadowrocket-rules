@@ -1,0 +1,10 @@
+# NAME: geosite-avito
+# UPDATED: 2026-11-07 04:29:42
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+DOMAIN,stats.avito.ru
+DOMAIN-SUFFIX,avito.com
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,avito.tech

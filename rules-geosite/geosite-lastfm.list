@@ -1,0 +1,9 @@
+# NAME: geosite-lastfm
+# UPDATED: 2026-11-07 04:29:44
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 1
+# TOTAL: 4
+DOMAIN,lastfm-img.freetls.fastly.net
+DOMAIN,lastfm.freetls.fastly.net
+DOMAIN,ws.audioscrobbler.com
+DOMAIN-SUFFIX,last.fm

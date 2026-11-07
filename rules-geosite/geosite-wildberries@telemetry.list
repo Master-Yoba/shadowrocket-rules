@@ -1,0 +1,9 @@
+# NAME: geosite-wildberries@telemetry
+# UPDATED: 2026-11-07 04:29:47
+# DOMAIN: 5
+# TOTAL: 5
+DOMAIN,analytics-stage.wildberries.ru
+DOMAIN,analytics.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
+DOMAIN,sentry.wb.ru
+DOMAIN,web-analytics.wildberries.ru

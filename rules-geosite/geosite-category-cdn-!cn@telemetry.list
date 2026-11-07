@@ -1,0 +1,7 @@
+# NAME: geosite-category-cdn-!cn@telemetry
+# UPDATED: 2026-11-07 04:29:41
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+DOMAIN-SUFFIX,akstat.io
+DOMAIN-SUFFIX,cloudflareinsights-cn.com
+DOMAIN-SUFFIX,cloudflareinsights.com

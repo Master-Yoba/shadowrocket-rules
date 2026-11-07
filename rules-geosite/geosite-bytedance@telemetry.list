@@ -1,0 +1,17 @@
+# NAME: geosite-bytedance@telemetry
+# UPDATED: 2026-11-07 04:29:47
+# DOMAIN: 8
+# DOMAIN-SUFFIX: 4
+# TOTAL: 12
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log3-applog.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,log5-applog.fqnovel.com
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog3-applog.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog.fqnovel.com
+DOMAIN-SUFFIX,applogcdn.com
+DOMAIN-SUFFIX,extlog.snssdk.com
+DOMAIN-SUFFIX,log.zijieapi.com
+DOMAIN-SUFFIX,volceapplog.com
