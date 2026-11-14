@@ -1,0 +1,6 @@
+# NAME: geosite-mozilla@telemetry
+# UPDATED: 2026-11-14 04:48:51
+# DOMAIN: 2
+# TOTAL: 2
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org

@@ -1,0 +1,30 @@
+# NAME: geosite-geolocation-!cn@telemetry
+# UPDATED: 2026-11-14 04:48:47
+# DOMAIN: 13
+# DOMAIN-SUFFIX: 12
+# TOTAL: 25
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,dc.services.visualstudio.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,live.applicationinsights.azure.com
+DOMAIN,o1158394.ingest.us.sentry.io
+DOMAIN,rt.services.visualstudio.com
+DOMAIN,sentry.ppy.sh
+DOMAIN-SUFFIX,adobestats.io
+DOMAIN-SUFFIX,akstat.io
+DOMAIN-SUFFIX,applicationinsights.io
+DOMAIN-SUFFIX,applicationinsights.net
+DOMAIN-SUFFIX,aria.ms
+DOMAIN-SUFFIX,cafe.github.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,data.microsoft.com
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
+DOMAIN-SUFFIX,paypalbeacon.com
+DOMAIN-SUFFIX,telemetry.microsoft.com

@@ -1,0 +1,6 @@
+# NAME: geosite-kontur@telemetry
+# UPDATED: 2026-11-14 04:48:45
+# DOMAIN: 2
+# TOTAL: 2
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host

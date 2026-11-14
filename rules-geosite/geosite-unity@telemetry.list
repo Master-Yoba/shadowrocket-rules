@@ -1,0 +1,7 @@
+# NAME: geosite-unity@telemetry
+# UPDATED: 2026-11-14 04:48:32
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com

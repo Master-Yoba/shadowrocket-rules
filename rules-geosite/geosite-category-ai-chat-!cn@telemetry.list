@@ -1,0 +1,11 @@
+# NAME: geosite-category-ai-chat-!cn@telemetry
+# UPDATED: 2026-11-14 04:48:45
+# DOMAIN: 7
+# TOTAL: 7
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
+DOMAIN,o1158394.ingest.us.sentry.io
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io

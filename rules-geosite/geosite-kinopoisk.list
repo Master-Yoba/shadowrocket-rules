@@ -1,0 +1,10 @@
+# NAME: geosite-kinopoisk
+# UPDATED: 2026-11-14 04:48:44
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,kp.yandex.net

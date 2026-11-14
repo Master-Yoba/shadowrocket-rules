@@ -1,0 +1,7 @@
+# NAME: geosite-tencent-tme@telemetry
+# UPDATED: 2026-11-14 04:48:43
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,report.tencentmusic.com
+DOMAIN-SUFFIX,stat.y.qq.com

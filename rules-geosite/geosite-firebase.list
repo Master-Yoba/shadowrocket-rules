@@ -1,0 +1,28 @@
+# NAME: geosite-firebase
+# UPDATED: 2026-11-14 04:48:47
+# DOMAIN: 16
+# DOMAIN-SUFFIX: 7
+# TOTAL: 23
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebase.googleapis.com
+DOMAIN,firebaseappcheck.googleapis.com
+DOMAIN,firebaseappdistribution.googleapis.com
+DOMAIN,firebaseapptesters.googleapis.com
+DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
+DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
+DOMAIN,firebasedynamiclinks.googleapis.com
+DOMAIN,firebaseinappmessaging.googleapis.com
+DOMAIN,firebaseinstallations.googleapis.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
+DOMAIN,firebaseperusertopics-pa.googleapis.com
+DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN,update.crashlytics.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,firebase.dev
+DOMAIN-SUFFIX,firebase.google.com
+DOMAIN-SUFFIX,firebase.io
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,firebaseio.com

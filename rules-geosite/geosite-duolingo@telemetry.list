@@ -1,0 +1,6 @@
+# NAME: geosite-duolingo@telemetry
+# UPDATED: 2026-11-14 04:48:47
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com

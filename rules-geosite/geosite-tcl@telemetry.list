@@ -1,0 +1,13 @@
+# NAME: geosite-tcl@telemetry
+# UPDATED: 2026-11-14 04:48:32
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+DOMAIN-SUFFIX,base.api.my7v.com
+DOMAIN-SUFFIX,dc-conf-o.api.leiniao.com
+DOMAIN-SUFFIX,dc-conf-t.api.leiniao.com
+DOMAIN-SUFFIX,dc-o.api.leiniao.com
+DOMAIN-SUFFIX,dc-t.api.leiniao.com
+DOMAIN-SUFFIX,dc-uo.api.leiniao.com
+DOMAIN-SUFFIX,dc-ut.api.leiniao.com
+DOMAIN-SUFFIX,qms-report-o.api.leiniao.com
+DOMAIN-SUFFIX,qms-report-t.api.leiniao.com

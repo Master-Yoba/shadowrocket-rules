@@ -1,0 +1,10 @@
+# NAME: geosite-sina@telemetry
+# UPDATED: 2026-11-14 04:48:42
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+DOMAIN-SUFFIX,beacon.sina.com.cn
+DOMAIN-SUFFIX,log.sina.cn
+DOMAIN-SUFFIX,log2.sina.cn
+DOMAIN-SUFFIX,sbeacon.sina.com.cn
+DOMAIN-SUFFIX,slog.sina.cn
+DOMAIN-SUFFIX,slog.sina.com.cn

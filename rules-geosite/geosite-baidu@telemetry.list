@@ -1,0 +1,6 @@
+# NAME: geosite-baidu@telemetry
+# UPDATED: 2026-11-14 04:48:33
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,fclog.baidu.com
+DOMAIN-SUFFIX,pimlog.baidu.com

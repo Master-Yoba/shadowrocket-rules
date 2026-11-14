@@ -1,0 +1,8 @@
+# NAME: geosite-azure@telemetry
+# UPDATED: 2026-11-14 04:48:50
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 1
+# TOTAL: 3
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,live.applicationinsights.azure.com
+DOMAIN-SUFFIX,in.applicationinsights.azure.com

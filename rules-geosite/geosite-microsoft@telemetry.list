@@ -1,0 +1,22 @@
+# NAME: geosite-microsoft@telemetry
+# UPDATED: 2026-11-14 04:48:47
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 11
+# TOTAL: 17
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,dc.services.visualstudio.com
+DOMAIN,live.applicationinsights.azure.com
+DOMAIN,rt.services.visualstudio.com
+DOMAIN-SUFFIX,applicationinsights.io
+DOMAIN-SUFFIX,applicationinsights.net
+DOMAIN-SUFFIX,aria.ms
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com
+DOMAIN-SUFFIX,cafe.github.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,data.microsoft.com
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
+DOMAIN-SUFFIX,nelreports.net
+DOMAIN-SUFFIX,telemetry.microsoft.com

@@ -1,0 +1,13 @@
+# NAME: geosite-firefox
+# UPDATED: 2026-11-14 04:48:32
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 6
+# TOTAL: 8
+DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN,mozilla.map.fastly.net
+DOMAIN-SUFFIX,extendfirefox.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefox.hu
+DOMAIN-SUFFIX,firefoxtweetmachine.com
+DOMAIN-SUFFIX,firefoxusercontent.com

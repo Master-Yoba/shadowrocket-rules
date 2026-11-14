@@ -1,0 +1,13 @@
+# NAME: geosite-bing@cn
+# UPDATED: 2026-11-14 04:48:42
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 7
+# TOTAL: 8
+DOMAIN,bj1.api.bing.com
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,cn.bing.net
+DOMAIN-SUFFIX,cn.mm.bing.net
+DOMAIN-SUFFIX,ditu.live.com
+DOMAIN-SUFFIX,r.bing.com
+DOMAIN-SUFFIX,th.bing.com
