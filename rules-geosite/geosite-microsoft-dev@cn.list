@@ -1,0 +1,10 @@
+# NAME: geosite-microsoft-dev@cn
+# UPDATED: 2026-11-21 05:29:58
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+DOMAIN,download.visualstudio.microsoft.com
+DOMAIN,vscode.download.prss.microsoft.com
+DOMAIN-SUFFIX,microsoftreactor.cn
+DOMAIN-SUFFIX,microsoftreactor.com.cn
+DOMAIN-SUFFIX,reactorms.com.cn

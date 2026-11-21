@@ -1,0 +1,7 @@
+# NAME: geosite-kuaishou@telemetry
+# UPDATED: 2026-11-21 05:29:59
+# DOMAIN: 3
+# TOTAL: 3
+DOMAIN,apilog-web.acfun.cn
+DOMAIN,log-sdk.gifshow.com
+DOMAIN,wlog.kuaishou.com
