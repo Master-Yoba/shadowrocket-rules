@@ -1,0 +1,6 @@
+# NAME: geosite-openwrt
+# UPDATED: 2026-11-28 06:08:39
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,lede-project.org
+DOMAIN-SUFFIX,openwrt.org

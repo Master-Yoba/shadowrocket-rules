@@ -1,0 +1,13 @@
+# NAME: geosite-fastly
+# UPDATED: 2026-11-28 06:08:50
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastly-insights.com
+DOMAIN-SUFFIX,fastly-terrarium.com
+DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,fastly.io
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlydns.net
+DOMAIN-SUFFIX,fastlylabs.com
+DOMAIN-SUFFIX,fastlylb.net
